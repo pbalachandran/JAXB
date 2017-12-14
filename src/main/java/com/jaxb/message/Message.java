@@ -15,4 +15,8 @@ public class Message {
     @XmlAnyElement(lax=true)
     private Object body;
 
+
+    public Object getBody() {
+        return body;
+    }
 }
