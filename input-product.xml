@@ -1,0 +1,5 @@
+<message to="joe@example.com" from="jane@example.com">
+    <product>
+        <name>iMac</name>
+    </product>
+</message>
